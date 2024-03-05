@@ -1,0 +1,1795 @@
+market_segment,lead_time,Total_bookings,canceled_reservations,cancellation_rate
+Aviation,0,39,6,0.1538
+Aviation,1,26,9,0.3462
+Aviation,2,30,5,0.1667
+Aviation,3,38,8,0.2105
+Aviation,4,23,3,0.1304
+Aviation,5,18,6,0.3333
+Aviation,6,11,2,0.1818
+Aviation,7,6,0,0.0000
+Aviation,8,5,1,0.2000
+Aviation,9,8,0,0.0000
+Aviation,10,8,4,0.5000
+Aviation,11,9,2,0.2222
+Aviation,12,2,0,0.0000
+Aviation,13,3,0,0.0000
+Aviation,14,1,0,0.0000
+Aviation,16,1,0,0.0000
+Aviation,17,2,1,0.5000
+Aviation,20,4,4,1.0000
+Aviation,21,2,0,0.0000
+Aviation,23,1,1,1.0000
+Complementary,0,212,26,0.1226
+Complementary,1,84,13,0.1548
+Complementary,2,41,3,0.0732
+Complementary,3,57,3,0.0526
+Complementary,4,42,7,0.1667
+Complementary,5,35,1,0.0286
+Complementary,6,20,1,0.0500
+Complementary,7,19,4,0.2105
+Complementary,8,15,5,0.3333
+Complementary,9,19,1,0.0526
+Complementary,10,3,0,0.0000
+Complementary,11,17,0,0.0000
+Complementary,12,15,5,0.3333
+Complementary,13,7,0,0.0000
+Complementary,14,11,3,0.2727
+Complementary,15,8,0,0.0000
+Complementary,16,2,1,0.5000
+Complementary,17,2,0,0.0000
+Complementary,18,2,1,0.5000
+Complementary,19,4,1,0.2500
+Complementary,20,1,0,0.0000
+Complementary,21,2,1,0.5000
+Complementary,22,10,0,0.0000
+Complementary,23,6,1,0.1667
+Complementary,24,6,1,0.1667
+Complementary,25,6,0,0.0000
+Complementary,26,3,0,0.0000
+Complementary,27,2,1,0.5000
+Complementary,28,2,0,0.0000
+Complementary,29,2,0,0.0000
+Complementary,31,2,0,0.0000
+Complementary,32,5,0,0.0000
+Complementary,33,4,0,0.0000
+Complementary,34,1,0,0.0000
+Complementary,36,1,0,0.0000
+Complementary,37,3,1,0.3333
+Complementary,38,3,0,0.0000
+Complementary,41,1,0,0.0000
+Complementary,43,2,0,0.0000
+Complementary,44,4,2,0.5000
+Complementary,45,3,0,0.0000
+Complementary,46,1,0,0.0000
+Complementary,47,1,0,0.0000
+Complementary,49,6,1,0.1667
+Complementary,51,1,1,1.0000
+Complementary,54,1,1,1.0000
+Complementary,55,1,0,0.0000
+Complementary,56,1,0,0.0000
+Complementary,57,2,1,0.5000
+Complementary,58,1,0,0.0000
+Complementary,61,2,0,0.0000
+Complementary,62,2,1,0.5000
+Complementary,63,1,0,0.0000
+Complementary,64,2,2,1.0000
+Complementary,65,1,0,0.0000
+Complementary,67,1,0,0.0000
+Complementary,70,1,0,0.0000
+Complementary,71,3,1,0.3333
+Complementary,72,1,1,1.0000
+Complementary,79,2,2,1.0000
+Complementary,80,1,0,0.0000
+Complementary,81,1,0,0.0000
+Complementary,85,1,0,0.0000
+Complementary,88,3,0,0.0000
+Complementary,91,1,0,0.0000
+Complementary,94,3,0,0.0000
+Complementary,96,1,0,0.0000
+Complementary,99,1,0,0.0000
+Complementary,100,1,1,1.0000
+Complementary,101,2,0,0.0000
+Complementary,109,1,0,0.0000
+Complementary,121,2,0,0.0000
+Complementary,122,1,0,0.0000
+Complementary,126,2,2,1.0000
+Complementary,130,1,0,0.0000
+Complementary,144,1,1,1.0000
+Complementary,172,1,0,0.0000
+Complementary,252,1,0,0.0000
+Complementary,304,1,0,0.0000
+Complementary,311,1,0,0.0000
+Complementary,386,1,0,0.0000
+Corporate,0,707,37,0.0523
+Corporate,1,443,30,0.0677
+Corporate,2,298,26,0.0872
+Corporate,3,278,44,0.1583
+Corporate,4,271,23,0.0849
+Corporate,5,296,36,0.1216
+Corporate,6,260,27,0.1038
+Corporate,7,189,16,0.0847
+Corporate,8,125,17,0.1360
+Corporate,9,74,9,0.1216
+Corporate,10,86,23,0.2674
+Corporate,11,83,22,0.2651
+Corporate,12,121,11,0.0909
+Corporate,13,88,13,0.1477
+Corporate,14,54,6,0.1111
+Corporate,15,84,8,0.0952
+Corporate,16,91,24,0.2637
+Corporate,17,55,8,0.1455
+Corporate,18,35,5,0.1429
+Corporate,19,36,2,0.0556
+Corporate,20,53,12,0.2264
+Corporate,21,39,8,0.2051
+Corporate,22,44,4,0.0909
+Corporate,23,24,4,0.1667
+Corporate,24,69,10,0.1449
+Corporate,25,30,11,0.3667
+Corporate,26,38,13,0.3421
+Corporate,27,29,8,0.2759
+Corporate,28,38,11,0.2895
+Corporate,29,44,3,0.0682
+Corporate,30,24,4,0.1667
+Corporate,31,45,12,0.2667
+Corporate,32,33,3,0.0909
+Corporate,33,61,12,0.1967
+Corporate,34,25,4,0.1600
+Corporate,35,21,2,0.0952
+Corporate,36,35,11,0.3143
+Corporate,37,21,5,0.2381
+Corporate,38,108,102,0.9444
+Corporate,39,13,5,0.3846
+Corporate,40,29,13,0.4483
+Corporate,41,46,15,0.3261
+Corporate,42,7,0,0.0000
+Corporate,43,9,2,0.2222
+Corporate,44,11,2,0.1818
+Corporate,45,7,4,0.5714
+Corporate,46,1,0,0.0000
+Corporate,47,15,8,0.5333
+Corporate,48,4,4,1.0000
+Corporate,49,5,0,0.0000
+Corporate,50,3,1,0.3333
+Corporate,51,11,6,0.5455
+Corporate,52,10,2,0.2000
+Corporate,53,2,2,1.0000
+Corporate,54,10,4,0.4000
+Corporate,55,23,9,0.3913
+Corporate,57,3,1,0.3333
+Corporate,58,4,4,1.0000
+Corporate,59,6,1,0.1667
+Corporate,60,14,10,0.7143
+Corporate,61,7,0,0.0000
+Corporate,62,8,2,0.2500
+Corporate,63,6,1,0.1667
+Corporate,64,39,10,0.2564
+Corporate,65,3,0,0.0000
+Corporate,66,2,1,0.5000
+Corporate,67,1,1,1.0000
+Corporate,68,6,5,0.8333
+Corporate,69,36,35,0.9722
+Corporate,70,24,10,0.4167
+Corporate,71,5,2,0.4000
+Corporate,72,2,2,1.0000
+Corporate,73,28,7,0.2500
+Corporate,74,13,12,0.9231
+Corporate,75,6,0,0.0000
+Corporate,76,10,1,0.1000
+Corporate,78,26,2,0.0769
+Corporate,81,1,0,0.0000
+Corporate,83,4,0,0.0000
+Corporate,84,6,0,0.0000
+Corporate,85,7,0,0.0000
+Corporate,86,35,4,0.1143
+Corporate,87,6,4,0.6667
+Corporate,88,13,0,0.0000
+Corporate,89,2,0,0.0000
+Corporate,90,1,1,1.0000
+Corporate,91,3,0,0.0000
+Corporate,93,2,0,0.0000
+Corporate,94,1,0,0.0000
+Corporate,96,1,0,0.0000
+Corporate,97,1,0,0.0000
+Corporate,98,3,0,0.0000
+Corporate,99,119,71,0.5966
+Corporate,100,1,0,0.0000
+Corporate,101,1,0,0.0000
+Corporate,105,4,0,0.0000
+Corporate,106,2,1,0.5000
+Corporate,108,1,0,0.0000
+Corporate,112,19,5,0.2632
+Corporate,113,39,39,1.0000
+Corporate,114,1,0,0.0000
+Corporate,115,2,0,0.0000
+Corporate,117,1,0,0.0000
+Corporate,120,1,0,0.0000
+Corporate,122,3,0,0.0000
+Corporate,125,1,0,0.0000
+Corporate,129,1,0,0.0000
+Corporate,136,1,0,0.0000
+Corporate,143,1,0,0.0000
+Corporate,145,1,0,0.0000
+Corporate,149,7,0,0.0000
+Corporate,150,1,0,0.0000
+Corporate,153,33,33,1.0000
+Corporate,154,8,0,0.0000
+Corporate,157,1,1,1.0000
+Corporate,165,1,0,0.0000
+Corporate,172,1,0,0.0000
+Corporate,178,1,0,0.0000
+Corporate,182,8,3,0.3750
+Corporate,183,1,0,0.0000
+Corporate,185,1,0,0.0000
+Corporate,192,1,1,1.0000
+Corporate,199,1,1,1.0000
+Corporate,202,1,0,0.0000
+Corporate,206,1,1,1.0000
+Corporate,212,2,2,1.0000
+Corporate,213,1,1,1.0000
+Corporate,216,1,1,1.0000
+Corporate,220,1,1,1.0000
+Corporate,227,1,1,1.0000
+Corporate,234,1,1,1.0000
+Corporate,236,1,0,0.0000
+Corporate,241,1,1,1.0000
+Corporate,248,1,1,1.0000
+Corporate,255,1,1,1.0000
+Corporate,262,1,1,1.0000
+Corporate,269,1,1,1.0000
+Corporate,276,1,1,1.0000
+Corporate,283,1,1,1.0000
+Corporate,290,1,1,1.0000
+Corporate,297,1,1,1.0000
+Corporate,304,1,1,1.0000
+Corporate,343,15,0,0.0000
+Direct,0,2751,168,0.0611
+Direct,1,829,71,0.0856
+Direct,2,463,61,0.1317
+Direct,3,311,24,0.0772
+Direct,4,259,26,0.1004
+Direct,5,237,17,0.0717
+Direct,6,230,34,0.1478
+Direct,7,177,17,0.0960
+Direct,8,146,23,0.1575
+Direct,9,148,19,0.1284
+Direct,10,152,25,0.1645
+Direct,11,143,17,0.1189
+Direct,12,120,27,0.2250
+Direct,13,109,18,0.1651
+Direct,14,112,17,0.1518
+Direct,15,109,17,0.1560
+Direct,16,114,26,0.2281
+Direct,17,104,20,0.1923
+Direct,18,106,28,0.2642
+Direct,19,97,20,0.2062
+Direct,20,88,23,0.2614
+Direct,21,71,17,0.2394
+Direct,22,73,15,0.2055
+Direct,23,74,19,0.2568
+Direct,24,59,13,0.2203
+Direct,25,60,14,0.2333
+Direct,26,97,20,0.2062
+Direct,27,113,17,0.1504
+Direct,28,51,10,0.1961
+Direct,29,79,18,0.2278
+Direct,30,74,24,0.3243
+Direct,31,60,12,0.2000
+Direct,32,62,17,0.2742
+Direct,33,51,9,0.1765
+Direct,34,63,12,0.1905
+Direct,35,46,13,0.2826
+Direct,36,47,9,0.1915
+Direct,37,55,3,0.0545
+Direct,38,58,11,0.1897
+Direct,39,35,6,0.1714
+Direct,40,45,16,0.3556
+Direct,41,40,11,0.2750
+Direct,42,57,13,0.2281
+Direct,43,32,5,0.1563
+Direct,44,45,11,0.2444
+Direct,45,55,18,0.3273
+Direct,46,52,15,0.2885
+Direct,47,47,6,0.1277
+Direct,48,52,9,0.1731
+Direct,49,45,10,0.2222
+Direct,50,51,12,0.2353
+Direct,51,37,7,0.1892
+Direct,52,42,4,0.0952
+Direct,53,40,9,0.2250
+Direct,54,46,18,0.3913
+Direct,55,30,10,0.3333
+Direct,56,37,5,0.1351
+Direct,57,39,5,0.1282
+Direct,58,40,5,0.1250
+Direct,59,40,8,0.2000
+Direct,60,39,13,0.3333
+Direct,61,40,3,0.0750
+Direct,62,27,5,0.1852
+Direct,63,32,7,0.2188
+Direct,64,26,6,0.2308
+Direct,65,45,21,0.4667
+Direct,66,34,6,0.1765
+Direct,67,43,7,0.1628
+Direct,68,37,1,0.0270
+Direct,69,36,10,0.2778
+Direct,70,32,5,0.1563
+Direct,71,27,6,0.2222
+Direct,72,57,9,0.1579
+Direct,73,29,5,0.1724
+Direct,74,29,7,0.2414
+Direct,75,27,8,0.2963
+Direct,76,28,11,0.3929
+Direct,77,45,11,0.2444
+Direct,78,33,7,0.2121
+Direct,79,33,6,0.1818
+Direct,80,30,6,0.2000
+Direct,81,33,3,0.0909
+Direct,82,30,4,0.1333
+Direct,83,31,2,0.0645
+Direct,84,37,6,0.1622
+Direct,85,21,4,0.1905
+Direct,86,35,5,0.1429
+Direct,87,24,3,0.1250
+Direct,88,30,5,0.1667
+Direct,89,28,6,0.2143
+Direct,90,28,4,0.1429
+Direct,91,24,7,0.2917
+Direct,92,32,7,0.2188
+Direct,93,24,4,0.1667
+Direct,94,30,8,0.2667
+Direct,95,13,3,0.2308
+Direct,96,32,6,0.1875
+Direct,97,18,5,0.2778
+Direct,98,18,3,0.1667
+Direct,99,24,9,0.3750
+Direct,100,22,2,0.0909
+Direct,101,25,6,0.2400
+Direct,102,16,6,0.3750
+Direct,103,21,3,0.1429
+Direct,104,17,4,0.2353
+Direct,105,28,1,0.0357
+Direct,106,21,6,0.2857
+Direct,107,29,13,0.4483
+Direct,108,26,4,0.1538
+Direct,109,19,3,0.1579
+Direct,110,27,2,0.0741
+Direct,111,15,5,0.3333
+Direct,112,33,8,0.2424
+Direct,113,28,6,0.2143
+Direct,114,17,1,0.0588
+Direct,115,18,3,0.1667
+Direct,116,25,7,0.2800
+Direct,117,15,6,0.4000
+Direct,118,15,0,0.0000
+Direct,119,19,2,0.1053
+Direct,120,19,2,0.1053
+Direct,121,21,3,0.1429
+Direct,122,23,3,0.1304
+Direct,123,20,3,0.1500
+Direct,124,14,3,0.2143
+Direct,125,29,8,0.2759
+Direct,126,17,1,0.0588
+Direct,127,20,8,0.4000
+Direct,128,20,1,0.0500
+Direct,129,30,10,0.3333
+Direct,130,16,3,0.1875
+Direct,131,21,5,0.2381
+Direct,132,18,0,0.0000
+Direct,133,21,3,0.1429
+Direct,134,19,4,0.2105
+Direct,135,16,4,0.2500
+Direct,136,33,2,0.0606
+Direct,137,19,4,0.2105
+Direct,138,15,3,0.2000
+Direct,139,13,3,0.2308
+Direct,140,16,1,0.0625
+Direct,141,12,1,0.0833
+Direct,142,18,8,0.4444
+Direct,143,17,4,0.2353
+Direct,144,22,6,0.2727
+Direct,145,30,10,0.3333
+Direct,146,13,0,0.0000
+Direct,147,25,7,0.2800
+Direct,148,13,2,0.1538
+Direct,149,9,2,0.2222
+Direct,150,18,2,0.1111
+Direct,151,19,1,0.0526
+Direct,152,15,2,0.1333
+Direct,153,14,2,0.1429
+Direct,154,27,4,0.1481
+Direct,155,24,1,0.0417
+Direct,156,24,6,0.2500
+Direct,157,15,5,0.3333
+Direct,158,30,8,0.2667
+Direct,159,31,6,0.1935
+Direct,160,23,6,0.2609
+Direct,161,13,1,0.0769
+Direct,162,18,2,0.1111
+Direct,163,25,12,0.4800
+Direct,164,17,4,0.2353
+Direct,165,13,2,0.1538
+Direct,166,14,3,0.2143
+Direct,167,9,1,0.1111
+Direct,168,15,2,0.1333
+Direct,169,16,2,0.1250
+Direct,170,9,1,0.1111
+Direct,171,24,1,0.0417
+Direct,172,21,4,0.1905
+Direct,173,18,1,0.0556
+Direct,174,21,4,0.1905
+Direct,175,10,3,0.3000
+Direct,176,24,0,0.0000
+Direct,177,26,3,0.1154
+Direct,178,24,4,0.1667
+Direct,179,16,1,0.0625
+Direct,180,15,4,0.2667
+Direct,181,13,1,0.0769
+Direct,182,23,5,0.2174
+Direct,183,11,5,0.4545
+Direct,184,15,3,0.2000
+Direct,185,5,1,0.2000
+Direct,186,6,2,0.3333
+Direct,187,11,2,0.1818
+Direct,188,21,4,0.1905
+Direct,189,21,4,0.1905
+Direct,190,22,2,0.0909
+Direct,191,9,1,0.1111
+Direct,192,17,2,0.1176
+Direct,193,12,3,0.2500
+Direct,194,17,1,0.0588
+Direct,195,15,3,0.2000
+Direct,196,5,1,0.2000
+Direct,197,10,6,0.6000
+Direct,198,2,1,0.5000
+Direct,199,12,6,0.5000
+Direct,200,11,2,0.1818
+Direct,201,9,1,0.1111
+Direct,202,5,0,0.0000
+Direct,203,4,1,0.2500
+Direct,204,5,1,0.2000
+Direct,205,11,1,0.0909
+Direct,206,6,1,0.1667
+Direct,207,12,1,0.0833
+Direct,208,12,3,0.2500
+Direct,209,7,2,0.2857
+Direct,210,9,2,0.2222
+Direct,211,12,2,0.1667
+Direct,212,3,1,0.3333
+Direct,213,11,2,0.1818
+Direct,214,4,0,0.0000
+Direct,215,10,1,0.1000
+Direct,216,2,2,1.0000
+Direct,217,6,1,0.1667
+Direct,218,6,0,0.0000
+Direct,219,8,7,0.8750
+Direct,220,10,5,0.5000
+Direct,221,2,2,1.0000
+Direct,222,4,0,0.0000
+Direct,223,8,2,0.2500
+Direct,224,5,2,0.4000
+Direct,225,6,1,0.1667
+Direct,226,7,4,0.5714
+Direct,227,6,1,0.1667
+Direct,228,6,2,0.3333
+Direct,229,5,1,0.2000
+Direct,230,5,2,0.4000
+Direct,231,5,2,0.4000
+Direct,232,3,3,1.0000
+Direct,233,8,0,0.0000
+Direct,234,12,5,0.4167
+Direct,235,5,0,0.0000
+Direct,236,8,0,0.0000
+Direct,237,8,0,0.0000
+Direct,238,1,0,0.0000
+Direct,239,7,3,0.4286
+Direct,240,5,4,0.8000
+Direct,241,4,0,0.0000
+Direct,242,4,1,0.2500
+Direct,243,2,0,0.0000
+Direct,244,3,2,0.6667
+Direct,245,7,0,0.0000
+Direct,246,7,3,0.4286
+Direct,247,4,3,0.7500
+Direct,248,5,1,0.2000
+Direct,249,5,2,0.4000
+Direct,250,13,4,0.3077
+Direct,251,3,2,0.6667
+Direct,252,1,0,0.0000
+Direct,253,2,0,0.0000
+Direct,254,4,0,0.0000
+Direct,255,6,3,0.5000
+Direct,256,4,0,0.0000
+Direct,257,5,1,0.2000
+Direct,258,2,1,0.5000
+Direct,259,5,3,0.6000
+Direct,260,4,2,0.5000
+Direct,261,4,2,0.5000
+Direct,262,5,1,0.2000
+Direct,263,5,0,0.0000
+Direct,264,2,0,0.0000
+Direct,265,2,0,0.0000
+Direct,267,6,2,0.3333
+Direct,268,8,2,0.2500
+Direct,269,7,1,0.1429
+Direct,270,4,2,0.5000
+Direct,271,9,1,0.1111
+Direct,272,1,0,0.0000
+Direct,273,7,1,0.1429
+Direct,274,3,0,0.0000
+Direct,275,7,1,0.1429
+Direct,277,5,0,0.0000
+Direct,278,4,3,0.7500
+Direct,280,2,0,0.0000
+Direct,282,7,0,0.0000
+Direct,283,2,2,1.0000
+Direct,284,1,0,0.0000
+Direct,285,2,0,0.0000
+Direct,286,3,1,0.3333
+Direct,287,6,0,0.0000
+Direct,288,2,0,0.0000
+Direct,290,1,0,0.0000
+Direct,291,1,0,0.0000
+Direct,292,3,0,0.0000
+Direct,293,1,0,0.0000
+Direct,294,6,1,0.1667
+Direct,295,3,1,0.3333
+Direct,296,3,1,0.3333
+Direct,297,7,1,0.1429
+Direct,298,2,2,1.0000
+Direct,302,3,3,1.0000
+Direct,303,1,0,0.0000
+Direct,304,2,1,0.5000
+Direct,305,4,2,0.5000
+Direct,306,2,0,0.0000
+Direct,307,1,0,0.0000
+Direct,308,1,0,0.0000
+Direct,309,2,2,1.0000
+Direct,310,3,2,0.6667
+Direct,312,2,2,1.0000
+Direct,313,8,5,0.6250
+Direct,314,1,1,1.0000
+Direct,315,2,1,0.5000
+Direct,316,2,2,1.0000
+Direct,317,2,1,0.5000
+Direct,318,3,0,0.0000
+Direct,319,2,0,0.0000
+Direct,320,5,0,0.0000
+Direct,321,1,1,1.0000
+Direct,322,2,0,0.0000
+Direct,323,1,0,0.0000
+Direct,324,1,1,1.0000
+Direct,325,2,0,0.0000
+Direct,326,4,1,0.2500
+Direct,327,2,0,0.0000
+Direct,328,6,4,0.6667
+Direct,329,1,0,0.0000
+Direct,330,2,0,0.0000
+Direct,333,3,0,0.0000
+Direct,334,7,5,0.7143
+Direct,335,1,0,0.0000
+Direct,336,1,1,1.0000
+Direct,337,1,0,0.0000
+Direct,338,2,2,1.0000
+Direct,339,1,1,1.0000
+Direct,340,2,1,0.5000
+Direct,342,2,1,0.5000
+Direct,343,8,0,0.0000
+Direct,347,1,1,1.0000
+Direct,349,3,3,1.0000
+Direct,352,1,1,1.0000
+Direct,354,1,0,0.0000
+Direct,355,1,0,0.0000
+Direct,365,1,1,1.0000
+Direct,386,2,2,1.0000
+Direct,387,1,1,1.0000
+Direct,709,1,0,0.0000
+Direct,737,1,0,0.0000
+Groups,0,68,8,0.1176
+Groups,1,50,12,0.2400
+Groups,2,78,20,0.2564
+Groups,3,71,9,0.1268
+Groups,4,101,5,0.0495
+Groups,5,110,35,0.3182
+Groups,6,61,12,0.1967
+Groups,7,141,15,0.1064
+Groups,8,77,41,0.5325
+Groups,9,95,32,0.3368
+Groups,10,55,5,0.0909
+Groups,11,94,7,0.0745
+Groups,12,96,29,0.3021
+Groups,13,19,4,0.2105
+Groups,14,47,5,0.1064
+Groups,15,24,7,0.2917
+Groups,16,181,35,0.1934
+Groups,17,103,27,0.2621
+Groups,18,85,24,0.2824
+Groups,19,53,15,0.2830
+Groups,20,79,22,0.2785
+Groups,21,34,7,0.2059
+Groups,22,76,38,0.5000
+Groups,23,20,7,0.3500
+Groups,24,45,5,0.1111
+Groups,25,59,34,0.5763
+Groups,26,21,11,0.5238
+Groups,27,25,19,0.7600
+Groups,28,151,132,0.8742
+Groups,29,62,13,0.2097
+Groups,30,56,16,0.2857
+Groups,31,90,7,0.0778
+Groups,32,47,30,0.6383
+Groups,33,22,5,0.2273
+Groups,34,93,27,0.2903
+Groups,35,64,43,0.6719
+Groups,36,86,24,0.2791
+Groups,37,44,29,0.6591
+Groups,38,8,4,0.5000
+Groups,39,36,9,0.2500
+Groups,40,192,54,0.2813
+Groups,41,87,37,0.4253
+Groups,42,26,24,0.9231
+Groups,43,25,14,0.5600
+Groups,44,116,51,0.4397
+Groups,45,65,23,0.3538
+Groups,46,66,31,0.4697
+Groups,47,91,10,0.1099
+Groups,48,89,26,0.2921
+Groups,49,44,35,0.7955
+Groups,50,111,64,0.5766
+Groups,51,14,1,0.0714
+Groups,52,1,0,0.0000
+Groups,53,90,29,0.3222
+Groups,54,11,11,1.0000
+Groups,55,115,22,0.1913
+Groups,56,101,88,0.8713
+Groups,57,45,16,0.3556
+Groups,58,8,1,0.1250
+Groups,59,123,83,0.6748
+Groups,60,4,0,0.0000
+Groups,61,120,102,0.8500
+Groups,62,44,34,0.7727
+Groups,63,15,2,0.1333
+Groups,64,19,16,0.8421
+Groups,65,78,58,0.7436
+Groups,66,111,61,0.5495
+Groups,67,94,71,0.7553
+Groups,68,201,159,0.7910
+Groups,69,111,5,0.0450
+Groups,70,31,3,0.0968
+Groups,72,170,61,0.3588
+Groups,73,25,20,0.8000
+Groups,74,43,31,0.7209
+Groups,75,80,39,0.4875
+Groups,76,37,8,0.2162
+Groups,77,20,20,1.0000
+Groups,78,70,55,0.7857
+Groups,79,37,3,0.0811
+Groups,80,55,11,0.2000
+Groups,81,51,9,0.1765
+Groups,82,78,56,0.7179
+Groups,83,55,21,0.3818
+Groups,84,60,7,0.1167
+Groups,85,42,42,1.0000
+Groups,86,102,99,0.9706
+Groups,87,154,151,0.9805
+Groups,88,90,81,0.9000
+Groups,89,38,38,1.0000
+Groups,90,5,5,1.0000
+Groups,91,24,23,0.9583
+Groups,92,144,144,1.0000
+Groups,93,34,26,0.7647
+Groups,94,33,1,0.0303
+Groups,95,102,61,0.5980
+Groups,96,79,42,0.5316
+Groups,97,111,78,0.7027
+Groups,98,145,52,0.3586
+Groups,99,10,0,0.0000
+Groups,100,73,42,0.5753
+Groups,101,77,44,0.5714
+Groups,102,54,15,0.2778
+Groups,103,68,55,0.8088
+Groups,104,135,135,1.0000
+Groups,105,4,3,0.7500
+Groups,106,64,64,1.0000
+Groups,107,24,3,0.1250
+Groups,108,14,13,0.9286
+Groups,109,7,0,0.0000
+Groups,110,4,0,0.0000
+Groups,111,65,26,0.4000
+Groups,112,116,52,0.4483
+Groups,113,26,25,0.9615
+Groups,114,35,5,0.1429
+Groups,115,104,61,0.5865
+Groups,116,72,11,0.1528
+Groups,118,14,10,0.7143
+Groups,119,9,0,0.0000
+Groups,120,14,14,1.0000
+Groups,121,31,24,0.7742
+Groups,122,8,0,0.0000
+Groups,123,50,5,0.1000
+Groups,124,67,40,0.5970
+Groups,125,26,24,0.9231
+Groups,126,39,39,1.0000
+Groups,127,19,19,1.0000
+Groups,128,53,30,0.5660
+Groups,129,81,80,0.9877
+Groups,130,52,51,0.9808
+Groups,131,51,29,0.5686
+Groups,132,40,3,0.0750
+Groups,134,136,59,0.4338
+Groups,135,97,68,0.7010
+Groups,136,26,23,0.8846
+Groups,137,113,69,0.6106
+Groups,138,58,21,0.3621
+Groups,139,3,0,0.0000
+Groups,140,115,40,0.3478
+Groups,141,30,29,0.9667
+Groups,142,51,38,0.7451
+Groups,143,88,86,0.9773
+Groups,144,16,16,1.0000
+Groups,145,15,5,0.3333
+Groups,146,9,3,0.3333
+Groups,147,38,38,1.0000
+Groups,148,84,82,0.9762
+Groups,149,38,38,1.0000
+Groups,150,2,0,0.0000
+Groups,151,86,43,0.5000
+Groups,152,97,21,0.2165
+Groups,153,31,23,0.7419
+Groups,154,6,0,0.0000
+Groups,155,40,25,0.6250
+Groups,156,139,110,0.7914
+Groups,157,24,24,1.0000
+Groups,158,139,101,0.7266
+Groups,159,8,0,0.0000
+Groups,160,1,1,1.0000
+Groups,161,18,18,1.0000
+Groups,162,105,75,0.7143
+Groups,163,11,11,1.0000
+Groups,164,85,85,1.0000
+Groups,165,89,37,0.4157
+Groups,166,25,25,1.0000
+Groups,167,1,0,0.0000
+Groups,168,134,78,0.5821
+Groups,169,82,8,0.0976
+Groups,170,13,13,1.0000
+Groups,171,50,3,0.0600
+Groups,172,2,2,1.0000
+Groups,173,36,36,1.0000
+Groups,174,54,40,0.7407
+Groups,175,81,81,1.0000
+Groups,176,10,5,0.5000
+Groups,177,20,1,0.0500
+Groups,178,34,34,1.0000
+Groups,179,31,31,1.0000
+Groups,181,72,68,0.9444
+Groups,182,9,9,1.0000
+Groups,183,73,43,0.5890
+Groups,184,27,18,0.6667
+Groups,185,66,17,0.2576
+Groups,186,86,86,1.0000
+Groups,188,5,5,1.0000
+Groups,189,89,46,0.5169
+Groups,190,23,17,0.7391
+Groups,191,7,2,0.2857
+Groups,192,35,18,0.5143
+Groups,193,16,0,0.0000
+Groups,194,2,2,1.0000
+Groups,195,13,1,0.0769
+Groups,196,27,10,0.3704
+Groups,197,50,9,0.1800
+Groups,198,117,68,0.5812
+Groups,199,74,37,0.5000
+Groups,200,11,11,1.0000
+Groups,201,31,28,0.9032
+Groups,202,17,6,0.3529
+Groups,203,95,30,0.3158
+Groups,204,3,0,0.0000
+Groups,205,25,25,1.0000
+Groups,206,22,8,0.3636
+Groups,207,5,0,0.0000
+Groups,208,85,19,0.2235
+Groups,209,1,1,1.0000
+Groups,210,10,10,1.0000
+Groups,211,78,48,0.6154
+Groups,212,64,50,0.7813
+Groups,213,133,39,0.2932
+Groups,214,34,6,0.1765
+Groups,215,121,39,0.3223
+Groups,216,6,4,0.6667
+Groups,217,4,1,0.2500
+Groups,218,17,17,1.0000
+Groups,219,37,24,0.6486
+Groups,220,30,1,0.0333
+Groups,221,36,26,0.7222
+Groups,222,58,33,0.5690
+Groups,223,39,17,0.4359
+Groups,224,23,12,0.5217
+Groups,225,67,3,0.0448
+Groups,226,61,35,0.5738
+Groups,227,1,1,1.0000
+Groups,228,1,1,1.0000
+Groups,229,26,25,0.9615
+Groups,230,2,2,1.0000
+Groups,231,16,1,0.0625
+Groups,232,12,12,1.0000
+Groups,233,49,29,0.5918
+Groups,234,11,7,0.6364
+Groups,235,15,0,0.0000
+Groups,236,74,27,0.3649
+Groups,237,3,0,0.0000
+Groups,238,54,54,1.0000
+Groups,239,38,35,0.9211
+Groups,240,59,49,0.8305
+Groups,241,39,9,0.2308
+Groups,243,33,24,0.7273
+Groups,244,50,39,0.7800
+Groups,245,42,27,0.6429
+Groups,246,1,1,1.0000
+Groups,247,71,70,0.9859
+Groups,248,19,7,0.3684
+Groups,249,3,1,0.3333
+Groups,251,64,38,0.5938
+Groups,252,21,2,0.0952
+Groups,253,27,3,0.1111
+Groups,254,42,20,0.4762
+Groups,257,20,2,0.1000
+Groups,258,67,56,0.8358
+Groups,259,92,90,0.9783
+Groups,260,31,23,0.7419
+Groups,261,26,7,0.2692
+Groups,262,65,50,0.7692
+Groups,263,23,2,0.0870
+Groups,264,31,10,0.3226
+Groups,265,105,85,0.8095
+Groups,266,29,28,0.9655
+Groups,267,42,42,1.0000
+Groups,269,20,20,1.0000
+Groups,271,33,10,0.3030
+Groups,272,67,67,1.0000
+Groups,273,1,0,0.0000
+Groups,274,76,76,1.0000
+Groups,275,18,4,0.2222
+Groups,276,67,51,0.7612
+Groups,277,242,228,0.9421
+Groups,278,76,76,1.0000
+Groups,279,85,85,1.0000
+Groups,280,1,0,0.0000
+Groups,281,93,88,0.9462
+Groups,282,19,3,0.1579
+Groups,283,96,71,0.7396
+Groups,284,4,0,0.0000
+Groups,285,21,0,0.0000
+Groups,286,120,87,0.7250
+Groups,287,90,7,0.0778
+Groups,288,59,39,0.6610
+Groups,289,36,22,0.6111
+Groups,290,53,51,0.9623
+Groups,292,65,57,0.8769
+Groups,293,20,20,1.0000
+Groups,294,31,31,1.0000
+Groups,295,73,73,1.0000
+Groups,297,72,52,0.7222
+Groups,299,31,31,1.0000
+Groups,300,62,61,0.9839
+Groups,302,88,78,0.8864
+Groups,304,68,68,1.0000
+Groups,305,25,25,1.0000
+Groups,307,40,40,1.0000
+Groups,309,45,45,1.0000
+Groups,311,52,52,1.0000
+Groups,312,56,47,0.8393
+Groups,313,37,37,1.0000
+Groups,314,41,41,1.0000
+Groups,315,26,11,0.4231
+Groups,316,163,41,0.2515
+Groups,317,3,0,0.0000
+Groups,318,21,20,0.9524
+Groups,320,16,16,1.0000
+Groups,321,40,40,1.0000
+Groups,322,21,0,0.0000
+Groups,323,114,114,1.0000
+Groups,325,20,20,1.0000
+Groups,326,22,22,1.0000
+Groups,327,43,31,0.7209
+Groups,328,44,20,0.4545
+Groups,330,73,73,1.0000
+Groups,332,24,24,1.0000
+Groups,334,33,31,0.9394
+Groups,335,27,20,0.7407
+Groups,336,65,2,0.0308
+Groups,337,81,64,0.7901
+Groups,338,1,0,0.0000
+Groups,339,66,41,0.6212
+Groups,340,4,4,1.0000
+Groups,341,31,31,1.0000
+Groups,342,121,94,0.7769
+Groups,343,6,6,1.0000
+Groups,344,55,55,1.0000
+Groups,346,20,20,1.0000
+Groups,347,1,1,1.0000
+Groups,349,20,20,1.0000
+Groups,350,74,74,1.0000
+Groups,351,93,80,0.8602
+Groups,353,20,20,1.0000
+Groups,355,31,31,1.0000
+Groups,356,20,20,1.0000
+Groups,358,63,63,1.0000
+Groups,359,22,20,0.9091
+Groups,360,23,20,0.8696
+Groups,362,1,0,0.0000
+Groups,363,26,20,0.7692
+Groups,364,78,3,0.0385
+Groups,365,62,52,0.8387
+Groups,367,22,20,0.9091
+Groups,368,34,27,0.7941
+Groups,372,32,32,1.0000
+Groups,374,20,20,1.0000
+Groups,377,20,20,1.0000
+Groups,378,18,18,1.0000
+Groups,379,63,63,1.0000
+Groups,382,1,0,0.0000
+Groups,383,72,25,0.3472
+Groups,384,25,23,0.9200
+Groups,385,28,21,0.7500
+Groups,386,99,44,0.4444
+Groups,388,20,0,0.0000
+Groups,389,2,0,0.0000
+Groups,390,1,0,0.0000
+Groups,391,55,55,1.0000
+Groups,393,58,58,1.0000
+Groups,395,30,30,1.0000
+Groups,398,32,32,1.0000
+Groups,405,55,55,1.0000
+Groups,408,11,10,0.9091
+Groups,409,25,4,0.1600
+Groups,411,24,24,1.0000
+Groups,412,32,32,1.0000
+Groups,414,95,31,0.3263
+Groups,419,32,32,1.0000
+Groups,420,57,57,1.0000
+Groups,422,27,19,0.7037
+Groups,423,34,15,0.4412
+Groups,426,32,32,1.0000
+Groups,429,15,1,0.0667
+Groups,433,32,32,1.0000
+Groups,434,26,4,0.1538
+Groups,437,40,40,1.0000
+Groups,440,32,32,1.0000
+Groups,443,15,15,1.0000
+Groups,445,3,0,0.0000
+Groups,447,32,32,1.0000
+Groups,448,26,5,0.1923
+Groups,450,11,11,1.0000
+Groups,451,66,46,0.6970
+Groups,454,32,32,1.0000
+Groups,457,15,15,1.0000
+Groups,461,32,32,1.0000
+Groups,462,46,25,0.5435
+Groups,464,15,15,1.0000
+Groups,468,79,62,0.7848
+Groups,471,6,6,1.0000
+Groups,475,32,32,1.0000
+Groups,479,10,10,1.0000
+Groups,482,17,17,1.0000
+Groups,489,17,17,1.0000
+Groups,493,10,10,1.0000
+Groups,496,17,17,1.0000
+Groups,503,17,17,1.0000
+Groups,510,17,17,1.0000
+Groups,517,17,17,1.0000
+Groups,518,22,0,0.0000
+Groups,524,17,17,1.0000
+Groups,531,17,17,1.0000
+Groups,538,17,17,1.0000
+Groups,542,23,0,0.0000
+Groups,545,17,17,1.0000
+Groups,552,17,17,1.0000
+Groups,559,17,17,1.0000
+Groups,566,17,17,1.0000
+Groups,573,17,17,1.0000
+Groups,580,17,17,1.0000
+Groups,587,17,17,1.0000
+Groups,594,17,17,1.0000
+Groups,601,17,17,1.0000
+Groups,605,30,30,1.0000
+Groups,608,17,17,1.0000
+Groups,615,17,17,1.0000
+Groups,622,17,17,1.0000
+Groups,626,30,30,1.0000
+Groups,629,17,17,1.0000
+"Offline TA/TO",0,465,55,0.1183
+"Offline TA/TO",1,352,92,0.2614
+"Offline TA/TO",2,238,22,0.0924
+"Offline TA/TO",3,238,15,0.0630
+"Offline TA/TO",4,247,24,0.0972
+"Offline TA/TO",5,158,6,0.0380
+"Offline TA/TO",6,183,9,0.0492
+"Offline TA/TO",7,138,11,0.0797
+"Offline TA/TO",8,125,13,0.1040
+"Offline TA/TO",9,77,9,0.1169
+"Offline TA/TO",10,121,9,0.0744
+"Offline TA/TO",11,155,24,0.1548
+"Offline TA/TO",12,132,20,0.1515
+"Offline TA/TO",13,119,10,0.0840
+"Offline TA/TO",14,199,32,0.1608
+"Offline TA/TO",15,114,42,0.3684
+"Offline TA/TO",16,69,10,0.1449
+"Offline TA/TO",17,101,10,0.0990
+"Offline TA/TO",18,96,17,0.1771
+"Offline TA/TO",19,167,63,0.3772
+"Offline TA/TO",20,99,19,0.1919
+"Offline TA/TO",21,89,10,0.1124
+"Offline TA/TO",22,78,17,0.2179
+"Offline TA/TO",23,103,15,0.1456
+"Offline TA/TO",24,103,11,0.1068
+"Offline TA/TO",25,123,31,0.2520
+"Offline TA/TO",26,113,33,0.2920
+"Offline TA/TO",27,120,54,0.4500
+"Offline TA/TO",28,115,13,0.1130
+"Offline TA/TO",29,100,13,0.1300
+"Offline TA/TO",30,103,57,0.5534
+"Offline TA/TO",31,110,11,0.1000
+"Offline TA/TO",32,163,18,0.1104
+"Offline TA/TO",33,124,68,0.5484
+"Offline TA/TO",34,270,156,0.5778
+"Offline TA/TO",35,92,12,0.1304
+"Offline TA/TO",36,89,7,0.0787
+"Offline TA/TO",37,204,147,0.7206
+"Offline TA/TO",38,71,11,0.1549
+"Offline TA/TO",39,229,82,0.3581
+"Offline TA/TO",40,101,9,0.0891
+"Offline TA/TO",41,119,5,0.0420
+"Offline TA/TO",42,67,11,0.1642
+"Offline TA/TO",43,81,10,0.1235
+"Offline TA/TO",44,150,66,0.4400
+"Offline TA/TO",45,80,22,0.2750
+"Offline TA/TO",46,102,15,0.1471
+"Offline TA/TO",47,88,6,0.0682
+"Offline TA/TO",48,97,6,0.0619
+"Offline TA/TO",49,85,11,0.1294
+"Offline TA/TO",50,82,6,0.0732
+"Offline TA/TO",51,47,4,0.0851
+"Offline TA/TO",52,101,55,0.5446
+"Offline TA/TO",53,91,12,0.1319
+"Offline TA/TO",54,108,52,0.4815
+"Offline TA/TO",55,130,23,0.1769
+"Offline TA/TO",56,221,121,0.5475
+"Offline TA/TO",57,88,10,0.1136
+"Offline TA/TO",58,94,37,0.3936
+"Offline TA/TO",59,80,6,0.0750
+"Offline TA/TO",60,101,26,0.2574
+"Offline TA/TO",61,105,16,0.1524
+"Offline TA/TO",62,65,18,0.2769
+"Offline TA/TO",63,70,17,0.2429
+"Offline TA/TO",64,53,3,0.0566
+"Offline TA/TO",65,62,7,0.1129
+"Offline TA/TO",66,63,19,0.3016
+"Offline TA/TO",67,52,10,0.1923
+"Offline TA/TO",68,85,12,0.1412
+"Offline TA/TO",69,122,80,0.6557
+"Offline TA/TO",70,77,13,0.1688
+"Offline TA/TO",71,163,115,0.7055
+"Offline TA/TO",72,80,7,0.0875
+"Offline TA/TO",73,75,6,0.0800
+"Offline TA/TO",74,185,76,0.4108
+"Offline TA/TO",75,108,45,0.4167
+"Offline TA/TO",76,53,21,0.3962
+"Offline TA/TO",77,51,15,0.2941
+"Offline TA/TO",78,68,27,0.3971
+"Offline TA/TO",79,64,29,0.4531
+"Offline TA/TO",80,130,55,0.4231
+"Offline TA/TO",81,59,11,0.1864
+"Offline TA/TO",82,50,6,0.1200
+"Offline TA/TO",83,63,5,0.0794
+"Offline TA/TO",84,34,6,0.1765
+"Offline TA/TO",85,61,6,0.0984
+"Offline TA/TO",86,104,9,0.0865
+"Offline TA/TO",87,56,8,0.1429
+"Offline TA/TO",88,95,17,0.1789
+"Offline TA/TO",89,50,10,0.2000
+"Offline TA/TO",90,58,9,0.1552
+"Offline TA/TO",91,70,17,0.2429
+"Offline TA/TO",92,82,18,0.2195
+"Offline TA/TO",93,96,54,0.5625
+"Offline TA/TO",94,71,29,0.4085
+"Offline TA/TO",95,60,12,0.2000
+"Offline TA/TO",96,84,23,0.2738
+"Offline TA/TO",97,58,16,0.2759
+"Offline TA/TO",98,54,7,0.1296
+"Offline TA/TO",99,70,44,0.6286
+"Offline TA/TO",100,93,44,0.4731
+"Offline TA/TO",101,60,24,0.4000
+"Offline TA/TO",102,196,87,0.4439
+"Offline TA/TO",103,133,77,0.5789
+"Offline TA/TO",104,82,24,0.2927
+"Offline TA/TO",105,207,144,0.6957
+"Offline TA/TO",106,34,4,0.1176
+"Offline TA/TO",107,59,11,0.1864
+"Offline TA/TO",108,59,31,0.5254
+"Offline TA/TO",109,85,49,0.5765
+"Offline TA/TO",110,81,29,0.3580
+"Offline TA/TO",111,90,55,0.6111
+"Offline TA/TO",112,94,37,0.3936
+"Offline TA/TO",113,121,88,0.7273
+"Offline TA/TO",114,54,23,0.4259
+"Offline TA/TO",115,113,19,0.1681
+"Offline TA/TO",116,114,60,0.5263
+"Offline TA/TO",117,114,57,0.5000
+"Offline TA/TO",118,121,7,0.0579
+"Offline TA/TO",119,50,3,0.0600
+"Offline TA/TO",120,43,7,0.1628
+"Offline TA/TO",121,59,24,0.4068
+"Offline TA/TO",122,78,12,0.1538
+"Offline TA/TO",123,19,3,0.1579
+"Offline TA/TO",124,56,17,0.3036
+"Offline TA/TO",125,34,5,0.1471
+"Offline TA/TO",126,40,8,0.2000
+"Offline TA/TO",127,51,11,0.2157
+"Offline TA/TO",128,41,9,0.2195
+"Offline TA/TO",129,36,5,0.1389
+"Offline TA/TO",130,38,7,0.1842
+"Offline TA/TO",131,82,32,0.3902
+"Offline TA/TO",132,58,18,0.3103
+"Offline TA/TO",133,101,16,0.1584
+"Offline TA/TO",134,78,56,0.7179
+"Offline TA/TO",135,46,7,0.1522
+"Offline TA/TO",136,51,3,0.0588
+"Offline TA/TO",137,43,12,0.2791
+"Offline TA/TO",138,46,14,0.3043
+"Offline TA/TO",139,58,33,0.5690
+"Offline TA/TO",140,91,40,0.4396
+"Offline TA/TO",141,67,12,0.1791
+"Offline TA/TO",142,36,11,0.3056
+"Offline TA/TO",143,60,2,0.0333
+"Offline TA/TO",144,56,12,0.2143
+"Offline TA/TO",145,76,24,0.3158
+"Offline TA/TO",146,98,50,0.5102
+"Offline TA/TO",147,44,10,0.2273
+"Offline TA/TO",148,40,26,0.6500
+"Offline TA/TO",149,34,6,0.1765
+"Offline TA/TO",150,153,101,0.6601
+"Offline TA/TO",151,116,44,0.3793
+"Offline TA/TO",152,71,27,0.3803
+"Offline TA/TO",153,39,4,0.1026
+"Offline TA/TO",154,35,3,0.0857
+"Offline TA/TO",155,50,24,0.4800
+"Offline TA/TO",156,25,4,0.1600
+"Offline TA/TO",157,79,20,0.2532
+"Offline TA/TO",158,22,4,0.1818
+"Offline TA/TO",159,98,5,0.0510
+"Offline TA/TO",160,67,21,0.3134
+"Offline TA/TO",161,83,51,0.6145
+"Offline TA/TO",162,80,28,0.3500
+"Offline TA/TO",163,80,40,0.5000
+"Offline TA/TO",164,151,23,0.1523
+"Offline TA/TO",165,32,7,0.2188
+"Offline TA/TO",166,131,95,0.7252
+"Offline TA/TO",167,64,18,0.2813
+"Offline TA/TO",168,56,28,0.5000
+"Offline TA/TO",169,128,100,0.7813
+"Offline TA/TO",170,40,4,0.1000
+"Offline TA/TO",171,34,5,0.1471
+"Offline TA/TO",172,77,20,0.2597
+"Offline TA/TO",173,34,4,0.1176
+"Offline TA/TO",174,65,32,0.4923
+"Offline TA/TO",175,45,3,0.0667
+"Offline TA/TO",176,50,21,0.4200
+"Offline TA/TO",177,90,54,0.6000
+"Offline TA/TO",178,111,84,0.7568
+"Offline TA/TO",179,37,9,0.2432
+"Offline TA/TO",180,132,46,0.3485
+"Offline TA/TO",181,81,26,0.3210
+"Offline TA/TO",182,39,21,0.5385
+"Offline TA/TO",183,91,49,0.5385
+"Offline TA/TO",184,31,10,0.3226
+"Offline TA/TO",185,31,3,0.0968
+"Offline TA/TO",186,47,4,0.0851
+"Offline TA/TO",187,23,7,0.3043
+"Offline TA/TO",188,145,118,0.8138
+"Offline TA/TO",189,30,5,0.1667
+"Offline TA/TO",190,33,8,0.2424
+"Offline TA/TO",191,75,7,0.0933
+"Offline TA/TO",192,152,18,0.1184
+"Offline TA/TO",193,78,57,0.7308
+"Offline TA/TO",194,32,3,0.0938
+"Offline TA/TO",195,57,32,0.5614
+"Offline TA/TO",196,25,3,0.1200
+"Offline TA/TO",197,45,18,0.4000
+"Offline TA/TO",198,42,21,0.5000
+"Offline TA/TO",199,46,27,0.5870
+"Offline TA/TO",200,33,9,0.2727
+"Offline TA/TO",201,30,7,0.2333
+"Offline TA/TO",202,18,8,0.4444
+"Offline TA/TO",203,22,3,0.1364
+"Offline TA/TO",204,57,22,0.3860
+"Offline TA/TO",205,39,18,0.4615
+"Offline TA/TO",206,19,3,0.1579
+"Offline TA/TO",207,95,48,0.5053
+"Offline TA/TO",208,28,3,0.1071
+"Offline TA/TO",209,12,3,0.2500
+"Offline TA/TO",210,103,62,0.6019
+"Offline TA/TO",211,74,62,0.8378
+"Offline TA/TO",212,36,8,0.2222
+"Offline TA/TO",213,85,64,0.7529
+"Offline TA/TO",214,46,28,0.6087
+"Offline TA/TO",215,13,1,0.0769
+"Offline TA/TO",216,21,6,0.2857
+"Offline TA/TO",217,18,3,0.1667
+"Offline TA/TO",218,16,5,0.3125
+"Offline TA/TO",219,139,75,0.5396
+"Offline TA/TO",220,45,10,0.2222
+"Offline TA/TO",221,133,42,0.3158
+"Offline TA/TO",222,20,4,0.2000
+"Offline TA/TO",223,36,12,0.3333
+"Offline TA/TO",224,28,2,0.0714
+"Offline TA/TO",225,16,1,0.0625
+"Offline TA/TO",226,54,31,0.5741
+"Offline TA/TO",227,19,1,0.0526
+"Offline TA/TO",228,7,2,0.2857
+"Offline TA/TO",229,11,1,0.0909
+"Offline TA/TO",230,36,11,0.3056
+"Offline TA/TO",231,28,15,0.5357
+"Offline TA/TO",232,18,5,0.2778
+"Offline TA/TO",233,54,41,0.7593
+"Offline TA/TO",234,21,3,0.1429
+"Offline TA/TO",235,9,1,0.1111
+"Offline TA/TO",236,20,1,0.0500
+"Offline TA/TO",237,20,3,0.1500
+"Offline TA/TO",238,15,1,0.0667
+"Offline TA/TO",239,53,21,0.3962
+"Offline TA/TO",240,17,3,0.1765
+"Offline TA/TO",241,16,1,0.0625
+"Offline TA/TO",242,10,1,0.1000
+"Offline TA/TO",243,13,3,0.2308
+"Offline TA/TO",244,34,27,0.7941
+"Offline TA/TO",245,111,102,0.9189
+"Offline TA/TO",246,44,18,0.4091
+"Offline TA/TO",247,81,9,0.1111
+"Offline TA/TO",248,15,3,0.2000
+"Offline TA/TO",249,8,0,0.0000
+"Offline TA/TO",250,31,21,0.6774
+"Offline TA/TO",251,13,2,0.1538
+"Offline TA/TO",252,12,0,0.0000
+"Offline TA/TO",253,32,24,0.7500
+"Offline TA/TO",254,8,1,0.1250
+"Offline TA/TO",255,20,1,0.0500
+"Offline TA/TO",256,100,5,0.0500
+"Offline TA/TO",257,76,8,0.1053
+"Offline TA/TO",258,33,22,0.6667
+"Offline TA/TO",259,30,21,0.7000
+"Offline TA/TO",260,29,23,0.7931
+"Offline TA/TO",261,38,23,0.6053
+"Offline TA/TO",262,6,0,0.0000
+"Offline TA/TO",263,43,27,0.6279
+"Offline TA/TO",264,7,0,0.0000
+"Offline TA/TO",265,81,4,0.0494
+"Offline TA/TO",266,21,3,0.1429
+"Offline TA/TO",267,38,34,0.8947
+"Offline TA/TO",268,36,22,0.6111
+"Offline TA/TO",269,25,2,0.0800
+"Offline TA/TO",270,56,26,0.4643
+"Offline TA/TO",271,31,3,0.0968
+"Offline TA/TO",272,44,5,0.1136
+"Offline TA/TO",273,125,65,0.5200
+"Offline TA/TO",274,5,0,0.0000
+"Offline TA/TO",275,112,108,0.9643
+"Offline TA/TO",276,58,32,0.5517
+"Offline TA/TO",277,24,6,0.2500
+"Offline TA/TO",278,21,17,0.8095
+"Offline TA/TO",279,61,51,0.8361
+"Offline TA/TO",280,43,41,0.9535
+"Offline TA/TO",281,5,2,0.4000
+"Offline TA/TO",282,23,6,0.2609
+"Offline TA/TO",283,6,1,0.1667
+"Offline TA/TO",284,3,1,0.3333
+"Offline TA/TO",285,22,19,0.8636
+"Offline TA/TO",286,49,28,0.5714
+"Offline TA/TO",287,8,1,0.1250
+"Offline TA/TO",288,16,11,0.6875
+"Offline TA/TO",289,27,8,0.2963
+"Offline TA/TO",290,23,13,0.5652
+"Offline TA/TO",291,40,22,0.5500
+"Offline TA/TO",292,102,8,0.0784
+"Offline TA/TO",293,4,0,0.0000
+"Offline TA/TO",294,6,2,0.3333
+"Offline TA/TO",295,3,1,0.3333
+"Offline TA/TO",296,36,4,0.1111
+"Offline TA/TO",297,12,2,0.1667
+"Offline TA/TO",298,34,15,0.4412
+"Offline TA/TO",299,2,1,0.5000
+"Offline TA/TO",300,1,0,0.0000
+"Offline TA/TO",301,168,96,0.5714
+"Offline TA/TO",302,35,33,0.9429
+"Offline TA/TO",303,19,11,0.5789
+"Offline TA/TO",304,92,85,0.9239
+"Offline TA/TO",305,101,89,0.8812
+"Offline TA/TO",306,3,0,0.0000
+"Offline TA/TO",307,13,2,0.1538
+"Offline TA/TO",308,23,20,0.8696
+"Offline TA/TO",309,34,16,0.4706
+"Offline TA/TO",310,19,4,0.2105
+"Offline TA/TO",311,8,1,0.1250
+"Offline TA/TO",312,9,4,0.4444
+"Offline TA/TO",313,19,19,1.0000
+"Offline TA/TO",314,27,21,0.7778
+"Offline TA/TO",315,57,48,0.8421
+"Offline TA/TO",316,2,0,0.0000
+"Offline TA/TO",317,66,65,0.9848
+"Offline TA/TO",318,6,2,0.3333
+"Offline TA/TO",319,5,1,0.2000
+"Offline TA/TO",320,72,5,0.0694
+"Offline TA/TO",321,4,0,0.0000
+"Offline TA/TO",322,62,47,0.7581
+"Offline TA/TO",323,25,11,0.4400
+"Offline TA/TO",324,6,0,0.0000
+"Offline TA/TO",325,15,14,0.9333
+"Offline TA/TO",326,6,2,0.3333
+"Offline TA/TO",327,26,6,0.2308
+"Offline TA/TO",328,10,0,0.0000
+"Offline TA/TO",329,23,20,0.8696
+"Offline TA/TO",330,7,2,0.2857
+"Offline TA/TO",331,2,0,0.0000
+"Offline TA/TO",332,3,0,0.0000
+"Offline TA/TO",333,35,31,0.8857
+"Offline TA/TO",334,2,0,0.0000
+"Offline TA/TO",335,74,42,0.5676
+"Offline TA/TO",336,88,70,0.7955
+"Offline TA/TO",337,3,0,0.0000
+"Offline TA/TO",338,30,9,0.3000
+"Offline TA/TO",340,4,2,0.5000
+"Offline TA/TO",341,4,0,0.0000
+"Offline TA/TO",342,7,1,0.1429
+"Offline TA/TO",343,1,1,1.0000
+"Offline TA/TO",344,8,3,0.3750
+"Offline TA/TO",345,4,1,0.2500
+"Offline TA/TO",346,73,1,0.0137
+"Offline TA/TO",347,5,2,0.4000
+"Offline TA/TO",348,24,19,0.7917
+"Offline TA/TO",349,32,17,0.5313
+"Offline TA/TO",350,13,8,0.6154
+"Offline TA/TO",351,2,0,0.0000
+"Offline TA/TO",352,16,3,0.1875
+"Offline TA/TO",353,5,1,0.2000
+"Offline TA/TO",354,5,1,0.2000
+"Offline TA/TO",355,3,1,0.3333
+"Offline TA/TO",356,3,0,0.0000
+"Offline TA/TO",358,2,0,0.0000
+"Offline TA/TO",359,15,0,0.0000
+"Offline TA/TO",360,1,0,0.0000
+"Offline TA/TO",361,5,2,0.4000
+"Offline TA/TO",362,1,0,0.0000
+"Offline TA/TO",363,1,0,0.0000
+"Offline TA/TO",364,84,74,0.8810
+"Offline TA/TO",366,2,0,0.0000
+"Offline TA/TO",367,2,0,0.0000
+"Offline TA/TO",368,4,4,1.0000
+"Offline TA/TO",370,1,0,0.0000
+"Offline TA/TO",371,1,1,1.0000
+"Offline TA/TO",372,10,10,1.0000
+"Offline TA/TO",373,29,27,0.9310
+"Offline TA/TO",374,1,0,0.0000
+"Offline TA/TO",375,2,1,0.5000
+"Offline TA/TO",376,3,0,0.0000
+"Offline TA/TO",377,69,0,0.0000
+"Offline TA/TO",379,5,0,0.0000
+"Offline TA/TO",381,1,0,0.0000
+"Offline TA/TO",382,1,0,0.0000
+"Offline TA/TO",385,1,0,0.0000
+"Offline TA/TO",386,78,14,0.1795
+"Offline TA/TO",390,3,1,0.3333
+"Offline TA/TO",393,27,27,1.0000
+"Offline TA/TO",394,15,10,0.6667
+"Offline TA/TO",395,24,4,0.1667
+"Offline TA/TO",396,85,18,0.2118
+"Offline TA/TO",397,17,1,0.0588
+"Offline TA/TO",398,1,1,1.0000
+"Offline TA/TO",399,1,0,0.0000
+"Offline TA/TO",400,1,0,0.0000
+"Offline TA/TO",405,74,8,0.1081
+"Offline TA/TO",406,6,2,0.3333
+"Offline TA/TO",407,29,27,0.9310
+"Offline TA/TO",410,10,10,1.0000
+"Offline TA/TO",414,10,10,1.0000
+"Offline TA/TO",418,60,25,0.4167
+"Offline TA/TO",422,2,0,0.0000
+"Offline TA/TO",423,74,19,0.2568
+"Offline TA/TO",424,1,0,0.0000
+"Offline TA/TO",433,20,20,1.0000
+"Offline TA/TO",434,1,1,1.0000
+"Offline TA/TO",435,1,1,1.0000
+"Offline TA/TO",443,22,22,1.0000
+"Offline TA/TO",444,40,40,1.0000
+"Offline TA/TO",454,1,0,0.0000
+"Offline TA/TO",457,73,7,0.0959
+"Offline TA/TO",458,1,1,1.0000
+"Offline TA/TO",460,3,0,0.0000
+"Offline TA/TO",463,1,0,0.0000
+"Offline TA/TO",464,14,10,0.7143
+"Offline TA/TO",465,31,15,0.4839
+"Offline TA/TO",467,10,10,1.0000
+"Offline TA/TO",468,26,13,0.5000
+"Offline TA/TO",476,26,11,0.4231
+"Offline TA/TO",478,13,11,0.8462
+"Offline TA/TO",479,23,3,0.1304
+"Offline TA/TO",490,9,9,1.0000
+"Offline TA/TO",504,26,5,0.1923
+"Offline TA/TO",507,10,10,1.0000
+"Offline TA/TO",518,4,4,1.0000
+"Offline TA/TO",521,10,10,1.0000
+"Offline TA/TO",532,1,0,0.0000
+"Online TA",0,2103,130,0.0618
+"Online TA",1,1674,92,0.0550
+"Online TA",2,920,75,0.0815
+"Online TA",3,823,79,0.0960
+"Online TA",4,772,88,0.1140
+"Online TA",5,711,105,0.1477
+"Online TA",6,680,117,0.1721
+"Online TA",7,661,109,0.1649
+"Online TA",8,644,122,0.1894
+"Online TA",9,571,149,0.2609
+"Online TA",10,551,156,0.2831
+"Online TA",11,554,149,0.2690
+"Online TA",12,593,186,0.3137
+"Online TA",13,476,123,0.2584
+"Online TA",14,541,152,0.2810
+"Online TA",15,500,178,0.3560
+"Online TA",16,484,138,0.2851
+"Online TA",17,514,168,0.3268
+"Online TA",18,502,186,0.3705
+"Online TA",19,482,160,0.3320
+"Online TA",20,426,138,0.3239
+"Online TA",21,441,148,0.3356
+"Online TA",22,426,141,0.3310
+"Online TA",23,415,165,0.3976
+"Online TA",24,383,138,0.3603
+"Online TA",25,375,119,0.3173
+"Online TA",26,399,158,0.3960
+"Online TA",27,360,146,0.4056
+"Online TA",28,463,173,0.3737
+"Online TA",29,425,163,0.3835
+"Online TA",30,402,142,0.3532
+"Online TA",31,378,147,0.3889
+"Online TA",32,380,160,0.4211
+"Online TA",33,381,140,0.3675
+"Online TA",34,376,131,0.3484
+"Online TA",35,432,142,0.3287
+"Online TA",36,405,146,0.3605
+"Online TA",37,346,134,0.3873
+"Online TA",38,327,151,0.4618
+"Online TA",39,360,126,0.3500
+"Online TA",40,355,139,0.3915
+"Online TA",41,314,127,0.4045
+"Online TA",42,307,111,0.3616
+"Online TA",43,330,125,0.3788
+"Online TA",44,307,121,0.3941
+"Online TA",45,327,134,0.4098
+"Online TA",46,273,119,0.4359
+"Online TA",47,326,125,0.3834
+"Online TA",48,264,89,0.3371
+"Online TA",49,294,130,0.4422
+"Online TA",50,280,128,0.4571
+"Online TA",51,256,105,0.4102
+"Online TA",52,281,130,0.4626
+"Online TA",53,307,104,0.3388
+"Online TA",54,296,128,0.4324
+"Online TA",55,276,116,0.4203
+"Online TA",56,316,140,0.4430
+"Online TA",57,280,108,0.3857
+"Online TA",58,254,105,0.4134
+"Online TA",59,271,117,0.4317
+"Online TA",60,278,120,0.4317
+"Online TA",61,239,102,0.4268
+"Online TA",62,268,101,0.3769
+"Online TA",63,274,100,0.3650
+"Online TA",64,284,101,0.3556
+"Online TA",65,259,109,0.4208
+"Online TA",66,256,100,0.3906
+"Online TA",67,248,91,0.3669
+"Online TA",68,235,86,0.3660
+"Online TA",69,253,96,0.3794
+"Online TA",70,219,92,0.4201
+"Online TA",71,225,76,0.3378
+"Online TA",72,221,110,0.4977
+"Online TA",73,245,113,0.4612
+"Online TA",74,249,110,0.4418
+"Online TA",75,204,85,0.4167
+"Online TA",76,223,83,0.3722
+"Online TA",77,241,90,0.3734
+"Online TA",78,187,79,0.4225
+"Online TA",79,221,97,0.4389
+"Online TA",80,224,83,0.3705
+"Online TA",81,215,112,0.5209
+"Online TA",82,235,95,0.4043
+"Online TA",83,225,77,0.3422
+"Online TA",84,208,65,0.3125
+"Online TA",85,212,89,0.4198
+"Online TA",86,185,74,0.4000
+"Online TA",87,210,88,0.4190
+"Online TA",88,217,92,0.4240
+"Online TA",89,197,69,0.3503
+"Online TA",90,201,60,0.2985
+"Online TA",91,212,89,0.4198
+"Online TA",92,183,79,0.4317
+"Online TA",93,194,80,0.4124
+"Online TA",94,195,90,0.4615
+"Online TA",95,217,102,0.4700
+"Online TA",96,171,66,0.3860
+"Online TA",97,168,58,0.3452
+"Online TA",98,200,95,0.4750
+"Online TA",99,206,93,0.4515
+"Online TA",100,157,68,0.4331
+"Online TA",101,185,84,0.4541
+"Online TA",102,192,94,0.4896
+"Online TA",103,155,63,0.4065
+"Online TA",104,179,73,0.4078
+"Online TA",105,169,89,0.5266
+"Online TA",106,134,75,0.5597
+"Online TA",107,153,54,0.3529
+"Online TA",108,167,60,0.3593
+"Online TA",109,185,80,0.4324
+"Online TA",110,185,84,0.4541
+"Online TA",111,163,68,0.4172
+"Online TA",112,161,62,0.3851
+"Online TA",113,159,74,0.4654
+"Online TA",114,138,69,0.5000
+"Online TA",115,183,85,0.4645
+"Online TA",116,184,68,0.3696
+"Online TA",117,167,56,0.3353
+"Online TA",118,142,66,0.4648
+"Online TA",119,164,69,0.4207
+"Online TA",120,175,88,0.5029
+"Online TA",121,151,61,0.4040
+"Online TA",122,175,70,0.4000
+"Online TA",123,187,101,0.5401
+"Online TA",124,171,67,0.3918
+"Online TA",125,157,70,0.4459
+"Online TA",126,152,56,0.3684
+"Online TA",127,141,56,0.3972
+"Online TA",128,190,83,0.4368
+"Online TA",129,149,56,0.3758
+"Online TA",130,190,85,0.4474
+"Online TA",131,146,68,0.4658
+"Online TA",132,143,57,0.3986
+"Online TA",133,143,59,0.4126
+"Online TA",134,151,68,0.4503
+"Online TA",135,127,68,0.5354
+"Online TA",136,127,57,0.4488
+"Online TA",137,111,43,0.3874
+"Online TA",138,138,54,0.3913
+"Online TA",139,147,75,0.5102
+"Online TA",140,114,53,0.4649
+"Online TA",141,165,67,0.4061
+"Online TA",142,154,67,0.4351
+"Online TA",143,135,64,0.4741
+"Online TA",144,124,68,0.5484
+"Online TA",145,120,54,0.4500
+"Online TA",146,122,52,0.4262
+"Online TA",147,111,50,0.4505
+"Online TA",148,141,60,0.4255
+"Online TA",149,107,61,0.5701
+"Online TA",150,148,63,0.4257
+"Online TA",151,144,64,0.4444
+"Online TA",152,129,50,0.3876
+"Online TA",153,125,44,0.3520
+"Online TA",154,103,42,0.4078
+"Online TA",155,142,82,0.5775
+"Online TA",156,118,41,0.3475
+"Online TA",157,126,63,0.5000
+"Online TA",158,133,56,0.4211
+"Online TA",159,158,73,0.4620
+"Online TA",160,116,51,0.4397
+"Online TA",161,116,69,0.5948
+"Online TA",162,100,49,0.4900
+"Online TA",163,101,40,0.3960
+"Online TA",164,105,53,0.5048
+"Online TA",165,107,51,0.4766
+"Online TA",166,127,51,0.4016
+"Online TA",167,117,56,0.4786
+"Online TA",168,117,58,0.4957
+"Online TA",169,111,39,0.3514
+"Online TA",170,113,47,0.4159
+"Online TA",171,102,52,0.5098
+"Online TA",172,149,82,0.5503
+"Online TA",173,127,58,0.4567
+"Online TA",174,123,50,0.4065
+"Online TA",175,144,66,0.4583
+"Online TA",176,76,36,0.4737
+"Online TA",177,116,60,0.5172
+"Online TA",178,155,92,0.5935
+"Online TA",179,148,76,0.5135
+"Online TA",180,123,61,0.4959
+"Online TA",181,129,59,0.4574
+"Online TA",182,76,37,0.4868
+"Online TA",183,117,51,0.4359
+"Online TA",184,129,71,0.5504
+"Online TA",185,107,55,0.5140
+"Online TA",186,108,46,0.4259
+"Online TA",187,97,53,0.5464
+"Online TA",188,80,34,0.4250
+"Online TA",189,79,35,0.4430
+"Online TA",190,82,36,0.4390
+"Online TA",191,83,37,0.4458
+"Online TA",192,88,37,0.4205
+"Online TA",193,83,29,0.3494
+"Online TA",194,69,32,0.4638
+"Online TA",195,102,58,0.5686
+"Online TA",196,83,41,0.4940
+"Online TA",197,69,37,0.5362
+"Online TA",198,89,50,0.5618
+"Online TA",199,79,42,0.5316
+"Online TA",200,88,50,0.5682
+"Online TA",201,75,33,0.4400
+"Online TA",202,69,27,0.3913
+"Online TA",203,74,33,0.4459
+"Online TA",204,94,41,0.4362
+"Online TA",205,79,45,0.5696
+"Online TA",206,98,50,0.5102
+"Online TA",207,100,36,0.3600
+"Online TA",208,66,42,0.6364
+"Online TA",209,79,36,0.4557
+"Online TA",210,82,39,0.4756
+"Online TA",211,82,38,0.4634
+"Online TA",212,93,43,0.4624
+"Online TA",213,73,37,0.5068
+"Online TA",214,74,30,0.4054
+"Online TA",215,65,27,0.4154
+"Online TA",216,57,31,0.5439
+"Online TA",217,73,33,0.4521
+"Online TA",218,66,33,0.5000
+"Online TA",219,66,26,0.3939
+"Online TA",220,63,24,0.3810
+"Online TA",221,52,23,0.4423
+"Online TA",222,69,32,0.4638
+"Online TA",223,56,30,0.5357
+"Online TA",224,72,37,0.5139
+"Online TA",225,56,33,0.5893
+"Online TA",226,68,32,0.4706
+"Online TA",227,64,36,0.5625
+"Online TA",228,62,27,0.4355
+"Online TA",229,54,34,0.6296
+"Online TA",230,65,33,0.5077
+"Online TA",231,43,22,0.5116
+"Online TA",232,50,15,0.3000
+"Online TA",233,38,23,0.6053
+"Online TA",234,24,12,0.5000
+"Online TA",235,48,38,0.7917
+"Online TA",236,47,19,0.4043
+"Online TA",237,81,46,0.5679
+"Online TA",238,56,33,0.5893
+"Online TA",239,56,23,0.4107
+"Online TA",240,64,41,0.6406
+"Online TA",241,57,34,0.5965
+"Online TA",242,39,25,0.6410
+"Online TA",243,56,31,0.5536
+"Online TA",244,62,38,0.6129
+"Online TA",245,40,29,0.7250
+"Online TA",246,34,19,0.5588
+"Online TA",247,50,31,0.6200
+"Online TA",248,42,17,0.4048
+"Online TA",249,37,22,0.5946
+"Online TA",250,47,29,0.6170
+"Online TA",251,46,21,0.4565
+"Online TA",252,39,22,0.5641
+"Online TA",253,44,22,0.5000
+"Online TA",254,37,15,0.4054
+"Online TA",255,32,20,0.6250
+"Online TA",256,60,21,0.3500
+"Online TA",257,31,20,0.6452
+"Online TA",258,43,24,0.5581
+"Online TA",259,43,17,0.3953
+"Online TA",260,34,22,0.6471
+"Online TA",261,37,24,0.6486
+"Online TA",262,49,35,0.7143
+"Online TA",263,31,22,0.7097
+"Online TA",264,26,21,0.8077
+"Online TA",265,42,29,0.6905
+"Online TA",266,26,14,0.5385
+"Online TA",267,38,29,0.7632
+"Online TA",268,34,22,0.6471
+"Online TA",269,30,21,0.7000
+"Online TA",270,55,33,0.6000
+"Online TA",271,18,11,0.6111
+"Online TA",272,31,15,0.4839
+"Online TA",273,27,21,0.7778
+"Online TA",274,41,16,0.3902
+"Online TA",275,27,21,0.7778
+"Online TA",276,23,11,0.4783
+"Online TA",277,47,19,0.4043
+"Online TA",278,37,15,0.4054
+"Online TA",279,19,14,0.7368
+"Online TA",280,33,15,0.4545
+"Online TA",281,24,13,0.5417
+"Online TA",282,30,26,0.8667
+"Online TA",283,18,10,0.5556
+"Online TA",284,24,21,0.8750
+"Online TA",285,23,16,0.6957
+"Online TA",286,17,5,0.2941
+"Online TA",287,32,22,0.6875
+"Online TA",288,33,21,0.6364
+"Online TA",289,29,20,0.6897
+"Online TA",290,31,17,0.5484
+"Online TA",291,19,4,0.2105
+"Online TA",292,26,12,0.4615
+"Online TA",293,19,12,0.6316
+"Online TA",294,32,16,0.5000
+"Online TA",295,29,14,0.4828
+"Online TA",296,21,14,0.6667
+"Online TA",297,12,4,0.3333
+"Online TA",298,13,8,0.6154
+"Online TA",299,11,5,0.4545
+"Online TA",300,30,9,0.3000
+"Online TA",301,22,10,0.4545
+"Online TA",302,21,17,0.8095
+"Online TA",303,25,20,0.8000
+"Online TA",304,17,8,0.4706
+"Online TA",305,38,28,0.7368
+"Online TA",306,29,19,0.6552
+"Online TA",307,27,15,0.5556
+"Online TA",308,34,13,0.3824
+"Online TA",309,23,16,0.6957
+"Online TA",310,23,17,0.7391
+"Online TA",311,20,15,0.7500
+"Online TA",312,19,12,0.6316
+"Online TA",313,17,10,0.5882
+"Online TA",314,19,13,0.6842
+"Online TA",315,47,39,0.8298
+"Online TA",316,33,28,0.8485
+"Online TA",317,26,12,0.4615
+"Online TA",318,19,11,0.5789
+"Online TA",319,28,22,0.7857
+"Online TA",320,33,19,0.5758
+"Online TA",321,19,12,0.6316
+"Online TA",322,15,10,0.6667
+"Online TA",323,8,2,0.2500
+"Online TA",324,13,9,0.6923
+"Online TA",325,14,8,0.5714
+"Online TA",326,15,5,0.3333
+"Online TA",327,17,9,0.5294
+"Online TA",328,13,10,0.7692
+"Online TA",329,11,6,0.5455
+"Online TA",330,19,9,0.4737
+"Online TA",331,14,11,0.7857
+"Online TA",332,23,17,0.7391
+"Online TA",333,21,20,0.9524
+"Online TA",334,12,10,0.8333
+"Online TA",335,13,10,0.7692
+"Online TA",336,13,10,0.7692
+"Online TA",337,7,4,0.5714
+"Online TA",338,11,10,0.9091
+"Online TA",339,5,3,0.6000
+"Online TA",340,10,9,0.9000
+"Online TA",341,7,6,0.8571
+"Online TA",342,15,8,0.5333
+"Online TA",343,6,5,0.8333
+"Online TA",344,4,4,1.0000
+"Online TA",345,10,4,0.4000
+"Online TA",346,13,11,0.8462
+"Online TA",347,5,5,1.0000
+"Online TA",348,11,3,0.2727
+"Online TA",349,7,6,0.8571
+"Online TA",350,11,9,0.8182
+"Online TA",351,7,3,0.4286
+"Online TA",352,14,10,0.7143
+"Online TA",353,10,7,0.7000
+"Online TA",354,3,3,1.0000
+"Online TA",355,5,3,0.6000
+"Online TA",356,8,7,0.8750
+"Online TA",357,18,18,1.0000
+"Online TA",358,8,8,1.0000
+"Online TA",359,7,5,0.7143
+"Online TA",360,3,3,1.0000
+"Online TA",361,5,5,1.0000
+"Online TA",363,1,0,0.0000
+"Online TA",364,1,1,1.0000
+"Online TA",365,2,1,0.5000
+"Online TA",366,1,1,1.0000
+"Online TA",367,1,0,0.0000
+"Online TA",368,2,2,1.0000
+"Online TA",372,2,2,1.0000
+"Online TA",378,1,1,1.0000
+"Online TA",380,1,1,1.0000
+"Online TA",381,4,3,0.7500
+"Online TA",389,1,1,1.0000
+"Online TA",399,1,1,1.0000
+"Online TA",403,2,2,1.0000
