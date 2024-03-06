@@ -114,11 +114,15 @@ Below are the visualizations including charts and a dashboard created using Tabl
 
 
 ![Total reservations and canceled reservations per month](https://github.com/Aroglobal1/Hotel-Reservation-Analysis/assets/148555924/3021c641-5b28-4b62-9508-dc38955d9841)
+
 _The orange colour represents the cancelled reservations while the blue colour represents the total reservations._
+
 
 
 ![Total reservations and canceled reservations by market segment](https://github.com/Aroglobal1/Hotel-Reservation-Analysis/assets/148555924/b7014357-01fa-4b80-b6d1-fc7ce926749f)
+
 _The orange colour represents the cancelled reservations while the blue colour represents the total reservations._
+
 
 
 ![Cancellation Rate by Lead time and market segment](https://github.com/Aroglobal1/Hotel-Reservation-Analysis/assets/148555924/bba32e34-b98b-4f79-9a59-2b66363a8182)
