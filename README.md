@@ -1,26 +1,26 @@
 # Hotel-Reservation-Analysis
 
-##Project Overview
+###Project Overview
 The primary objective of this project is to leverage a hotel reservation dataset for gaining insights and generating visualizations through the utilization of SQL for data manipulation and Tableau for visualization purposes. The project aims to delve into the dataset, identify interesting patterns, and create impactful visualizations to tell a compelling data story.
 
 
-##Data Source
+###Data Source
 The dataset utilized for this analysis is the "Hotel Reservation Analysis in SQL and Tableau.xlsx" file, which contains detailed information about reservations at two types of hotels, Resort and City Hotels.
 
 
-##Tools
+###Tools
 - Excel
 - MySQL
 - Data visualization tool: Tableau
 
 
-##Steps
+###Steps
 
-###1. Data Import
+####1. Data Import
 
 The dataset was initially converted from xlsx format to csv using Microsoft Excel to facilitate seamless importing into MySQL. Additionally, data cleaning was performed on the countries_codes_and_coordinates.csv dataset, which contains the full names of countries corresponding to the Alpha-3 codes present in the main dataset. This involved using the text-to-column function in Excel to remove inverted commas from the Alpha-3 code column and renaming the column from "Alpha-3 code" to "country_code". This preprocessing step simplified querying the dataset.
 
-###2. Data Exploration
+####2. Data Exploration
 
 The dataset comprises 119,390 rows and 32 columns with varying data types. Key questions explored include:
 - Geographic distribution of guests (by countries).
@@ -29,7 +29,7 @@ The dataset comprises 119,390 rows and 32 columns with varying data types. Key q
 - Cancellation rates.
 
 
-###3. SQL Analysis
+####3. SQL Analysis
 
 The csv file was imported into MySQL for data manipulation, as some analyses required combining or merging data from multiple columns in the dataset. To determine the top 10 countries of origin for hotel guests, the dataset recorded the first 3 letters of each country as the Alpha-3 code. To derive the full names of each country from their corresponding Alpha-3 codes, another dataset containing the Alpha-3 codes and full country names was obtained from GitHub.
 After data cleaning, the two datasets were queried to obtain the full names of the top 10 countries of origin for hotel guests.
@@ -106,7 +106,7 @@ ORDER BY hotel, segment_count DESC;
 ```
 
 
-4. Tableau Visualization
+####4. Tableau Visualization
 Below are the visualizations including charts and a dashboard created using Tableau, showcasing the analysis of the questions posed earlier. These visualizations provide insights into various aspects of the dataset, such as the geographic distribution of guests, the busiest months for reservations and cancellations, bookings by market segment, and cancellation rates.
 
 ![Top 10 countries by reservation](https://github.com/Aroglobal1/Hotel-Reservation-Analysis/assets/148555924/b96becad-73d1-4bef-9b28-64ecd6a5a2ae)
@@ -129,5 +129,5 @@ Hotel Reservation Analysis Dashboard
 Here is the link to access the dashboard done on Tableau - https://public.tableau.com/app/profile/gloryarowojolu/viz/HotelReservationAnalysisDashboard/HotelReservationAnalysisDashboard
 
 
-Insights and Recommendations
+###Insights and Recommendations
 Below are some insights derived from the above visualisations:
