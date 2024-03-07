@@ -137,3 +137,11 @@ Here is the link to access the dashboard done on Tableau - https://public.tablea
 
 ### Insights and Recommendations
 Below are some insights derived from the above visualisations:
+
+1.  From the chart displaying the top 10 countries of origin for hotel guests, Portugal has the highest number with approximately 48,586 reservations, indicating a significant number of guests hailing from the country. The United Kingdom follows with about 12,129 reservations, though with a notable gap between the two countries while the remaining countries follow with considerably lower number of reservations. Understanding this can inform marketing strategies and tailor services to cater to the needs and preferences of guests from specific regions.
+
+2.  The line chart depicts total reservations and cancellations across months, with August showing the highest figures for both. Given this peak period, hotel management should strategize by implementing targeted marketing campaigns and flexible policies to maximize revenue and mitigate the impact of cancellations during this time.
+
+3.  The chart displaying total reservations and cancellations by market segment illustrates a consistent trend of increasing figures from aviation, the lowest, to other market segments, with Online TA exhibiting the highest volume of both total reservations and cancellations. This pattern likely reflects the prevalent preference for online travel agencies for their bookings due to their convenience and ease of use.
+
+4.  The heat map visualization reveals that cancellation rates across various market segments tend to rise with longer lead times, indicating a correlation between lead time and cancellation likelihood. Several factors can contribute to this trend, including the flexibility associated with short-term bookings, uncertainty surrounding long-term reservations, the comparison window provided by Online Travel Agency bookings, and the complexity of group booking dynamics. Hotels can minimize the impact of cancellations by implementing flexible policies, incentivizing early bookings, and engaging in effective communication. Also, targeted marketing campaigns for last-minute deals can help attract short-term bookings and reduce cancellations.
